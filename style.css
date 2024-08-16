@@ -1,0 +1,31 @@
+li{
+    display: inline;
+    margin-left: 10%
+}
+p{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+ul {
+    list-style-type: none;
+    margin: 3;
+    padding: 2;
+    background-color: chartreuse;
+  }
+  .class{
+    display: flex;
+    color: brown;
+    margin-left: 30%;
+    
+  }
+  #image{
+    margin-left: 30%;
+  }
+  #vd{
+    margin-left: 30%;
+  }
+  #tab{
+    margin-left: 30%;
+    border-style: solid;
+
+
+  }
